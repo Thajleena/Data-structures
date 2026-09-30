@@ -5,7 +5,7 @@ void read(int[],int);
 void print(int[],int);
 void sort(int[],int);
 void merge(int[],int[],int[],int,int);
-int a[20],b[20],c[20],n1,n2;
+int a[20],b[20],c[40],n1,n2;
 printf("No.of elements in the first array[1-20]:");
 scanf("%d",&n1);
 read(a,n1);
